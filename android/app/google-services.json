@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "905924076298",
+    "project_id": "flutter-monday",
+    "storage_bucket": "flutter-monday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905924076298:android:015c96227c735a737950f3",
+        "android_client_info": {
+          "package_name": "com.flutter_monday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905924076298-7otbkgbvq0hhuafvch40j5bbmosut1lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5PCVaAosOX5H78ilSsRkRlVQMlgVBdlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905924076298-7otbkgbvq0hhuafvch40j5bbmosut1lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
